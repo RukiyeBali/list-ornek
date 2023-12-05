@@ -1,0 +1,10 @@
+C:\Users\student\Desktop\Ahmet\ntp\sinav-quiz\sinav-quiz\bin\Debug\sinav-quiz.exe.config
+C:\Users\student\Desktop\Ahmet\ntp\sinav-quiz\sinav-quiz\bin\Debug\sinav-quiz.exe
+C:\Users\student\Desktop\Ahmet\ntp\sinav-quiz\sinav-quiz\bin\Debug\sinav-quiz.pdb
+C:\Users\student\Desktop\Ahmet\ntp\sinav-quiz\sinav-quiz\obj\Debug\sinav-quiz.csproj.AssemblyReference.cache
+C:\Users\student\Desktop\Ahmet\ntp\sinav-quiz\sinav-quiz\obj\Debug\sinav_quiz.Form1.resources
+C:\Users\student\Desktop\Ahmet\ntp\sinav-quiz\sinav-quiz\obj\Debug\sinav_quiz.Properties.Resources.resources
+C:\Users\student\Desktop\Ahmet\ntp\sinav-quiz\sinav-quiz\obj\Debug\sinav-quiz.csproj.GenerateResource.cache
+C:\Users\student\Desktop\Ahmet\ntp\sinav-quiz\sinav-quiz\obj\Debug\sinav-quiz.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\Ahmet\ntp\sinav-quiz\sinav-quiz\obj\Debug\sinav-quiz.exe
+C:\Users\student\Desktop\Ahmet\ntp\sinav-quiz\sinav-quiz\obj\Debug\sinav-quiz.pdb
